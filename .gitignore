@@ -7,4 +7,5 @@ logs/
 dbt_internal_packages/
 venve/
 .env
-.vscode/
+.vscode/*.log
+*_debug_output.txt
